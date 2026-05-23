@@ -1,0 +1,8 @@
+artifact_location: file:///d:/lentera-laut/src/models/mlruns/311477468330499910
+creation_time: 1779251523935
+experiment_id: '311477468330499910'
+last_update_time: 1779251523935
+lifecycle_stage: active
+name: LenteraLaut_v4_Tuned_precipitation
+trace_location: null
+workspace: default

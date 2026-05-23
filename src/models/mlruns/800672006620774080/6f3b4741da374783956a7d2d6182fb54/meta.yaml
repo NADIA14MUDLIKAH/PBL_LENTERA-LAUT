@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/lentera-laut/src/models/mlruns/800672006620774080/6f3b4741da374783956a7d2d6182fb54/artifacts
+end_time: 1779250805468
+entry_point_name: ''
+experiment_id: '800672006620774080'
+lifecycle_stage: active
+run_id: 6f3b4741da374783956a7d2d6182fb54
+run_name: Baseline_RandomForestRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779250800350
+status: 3
+tags: []
+user_id: USER

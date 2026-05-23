@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/lentera-laut/src/models/mlruns/660143658542624667/52cd2fea3e7a4fb58434b7ed881a5f0a/artifacts
+end_time: 1779373222928
+entry_point_name: ''
+experiment_id: '660143658542624667'
+lifecycle_stage: active
+run_id: 52cd2fea3e7a4fb58434b7ed881a5f0a
+run_name: Baseline_GradientBoostingRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779373219094
+status: 3
+tags: []
+user_id: USER

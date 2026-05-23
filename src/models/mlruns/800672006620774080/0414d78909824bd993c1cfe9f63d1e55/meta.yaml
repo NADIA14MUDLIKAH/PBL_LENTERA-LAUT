@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/lentera-laut/src/models/mlruns/800672006620774080/0414d78909824bd993c1cfe9f63d1e55/artifacts
+end_time: 1779250123901
+entry_point_name: ''
+experiment_id: '800672006620774080'
+lifecycle_stage: active
+run_id: 0414d78909824bd993c1cfe9f63d1e55
+run_name: Baseline_LGBMRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779250119263
+status: 3
+tags: []
+user_id: USER

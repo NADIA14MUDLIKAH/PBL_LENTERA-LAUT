@@ -1,0 +1,10 @@
+artifact_location: file:///d:/lentera-laut/src/models/mlruns/311477468330499910/models/m-256719e78a2944439078c6b5bf851f2f/artifacts
+creation_timestamp: 1779251528456
+experiment_id: '311477468330499910'
+last_updated_timestamp: 1779251532378
+model_id: m-256719e78a2944439078c6b5bf851f2f
+model_type: null
+name: tuned_model
+source_run_id: 07b77d4e2a1047498d4209c074454554
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/lentera-laut/src/models/mlruns/654299626630339946/255178ff50ef4ce19f29f7db0f391e83/artifacts
+end_time: 1779251516437
+entry_point_name: ''
+experiment_id: '654299626630339946'
+lifecycle_stage: active
+run_id: 255178ff50ef4ce19f29f7db0f391e83
+run_name: Optuna_BayesianRidge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779251511688
+status: 3
+tags: []
+user_id: USER

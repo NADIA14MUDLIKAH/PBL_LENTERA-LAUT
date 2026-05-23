@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/lentera-laut/src/models/mlruns/178414665931006432/6c903173428b458782dbbd4ece7362f4/artifacts
+end_time: 1779326046937
+entry_point_name: ''
+experiment_id: '178414665931006432'
+lifecycle_stage: active
+run_id: 6c903173428b458782dbbd4ece7362f4
+run_name: Optuna_LGBMRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779326040573
+status: 3
+tags: []
+user_id: USER

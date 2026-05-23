@@ -1,0 +1,8 @@
+artifact_location: file:///d:/lentera-laut/src/models/mlruns/418175271097713474
+creation_time: 1779250097639
+experiment_id: '418175271097713474'
+last_update_time: 1779250097639
+lifecycle_stage: active
+name: LenteraLaut_v3_ocean_current_velocity
+trace_location: null
+workspace: default

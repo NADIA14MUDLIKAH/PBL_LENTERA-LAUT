@@ -1,0 +1,10 @@
+artifact_location: file:///d:/lentera-laut/src/models/mlruns/660143658542624667/models/m-9a0a89448b9f4701b96755cdf1c47112/artifacts
+creation_timestamp: 1779250812218
+experiment_id: '660143658542624667'
+last_updated_timestamp: 1779250815551
+model_id: m-9a0a89448b9f4701b96755cdf1c47112
+model_type: null
+name: model
+source_run_id: e220e685dc2344498d1bdfcdb1d039df
+status: 2
+status_message: null

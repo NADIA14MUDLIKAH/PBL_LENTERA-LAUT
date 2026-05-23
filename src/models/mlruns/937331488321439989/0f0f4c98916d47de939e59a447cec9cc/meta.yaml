@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/lentera-laut/src/models/mlruns/937331488321439989/0f0f4c98916d47de939e59a447cec9cc/artifacts
+end_time: 1779251465078
+entry_point_name: ''
+experiment_id: '937331488321439989'
+lifecycle_stage: active
+run_id: 0f0f4c98916d47de939e59a447cec9cc
+run_name: Optuna_GradientBoostingRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779251459591
+status: 3
+tags: []
+user_id: USER

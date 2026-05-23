@@ -1,0 +1,23 @@
+artifact_path: file:///d:/lentera-laut/src/models/mlruns/937331488321439989/models/m-66263dae65ec45a1819408bae1d6b152/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-66263dae65ec45a1819408bae1d6b152
+model_size_bytes: 133640
+model_uuid: m-66263dae65ec45a1819408bae1d6b152
+prompts: null
+run_id: 0f0f4c98916d47de939e59a447cec9cc
+utc_time_created: '2026-05-20 04:31:00.627216'

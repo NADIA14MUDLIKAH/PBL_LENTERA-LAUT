@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/lentera-laut/src/models/mlruns/534803255708825424/363e86f2674542c3aab5d3204c7d17ab/artifacts
+end_time: 1779373162971
+entry_point_name: ''
+experiment_id: '534803255708825424'
+lifecycle_stage: active
+run_id: 363e86f2674542c3aab5d3204c7d17ab
+run_name: Baseline_LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779373156346
+status: 3
+tags: []
+user_id: USER

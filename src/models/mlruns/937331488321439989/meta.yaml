@@ -1,0 +1,8 @@
+artifact_location: file:///d:/lentera-laut/src/models/mlruns/937331488321439989
+creation_time: 1779251444295
+experiment_id: '937331488321439989'
+last_update_time: 1779251444295
+lifecycle_stage: active
+name: LenteraLaut_v4_Tuned_wave_height
+trace_location: null
+workspace: default

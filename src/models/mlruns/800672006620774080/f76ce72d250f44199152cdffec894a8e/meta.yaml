@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/lentera-laut/src/models/mlruns/800672006620774080/f76ce72d250f44199152cdffec894a8e/artifacts
+end_time: 1779250796462
+entry_point_name: ''
+experiment_id: '800672006620774080'
+lifecycle_stage: active
+run_id: f76ce72d250f44199152cdffec894a8e
+run_name: Baseline_ExtraTreesRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779250791725
+status: 3
+tags: []
+user_id: USER

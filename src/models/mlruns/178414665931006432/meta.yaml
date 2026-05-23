@@ -1,0 +1,8 @@
+artifact_location: file:///d:/lentera-laut/src/models/mlruns/178414665931006432
+creation_time: 1779251465097
+experiment_id: '178414665931006432'
+last_update_time: 1779251465097
+lifecycle_stage: active
+name: LenteraLaut_v4_Tuned_wind_speed_10m
+trace_location: null
+workspace: default

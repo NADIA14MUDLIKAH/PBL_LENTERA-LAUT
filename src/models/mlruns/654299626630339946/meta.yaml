@@ -1,0 +1,8 @@
+artifact_location: file:///d:/lentera-laut/src/models/mlruns/654299626630339946
+creation_time: 1779251505487
+experiment_id: '654299626630339946'
+last_update_time: 1779251505487
+lifecycle_stage: active
+name: LenteraLaut_v4_Tuned_sea_surface_temperature
+trace_location: null
+workspace: default

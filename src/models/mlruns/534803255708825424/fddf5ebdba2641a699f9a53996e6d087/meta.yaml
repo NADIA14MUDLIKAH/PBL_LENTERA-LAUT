@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/lentera-laut/src/models/mlruns/534803255708825424/fddf5ebdba2641a699f9a53996e6d087/artifacts
+end_time: 1779250076127
+entry_point_name: ''
+experiment_id: '534803255708825424'
+lifecycle_stage: active
+run_id: fddf5ebdba2641a699f9a53996e6d087
+run_name: Baseline_BayesianRidge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779250072222
+status: 3
+tags: []
+user_id: USER

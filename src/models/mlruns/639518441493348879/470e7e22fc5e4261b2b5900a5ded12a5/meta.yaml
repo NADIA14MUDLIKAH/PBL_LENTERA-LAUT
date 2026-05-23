@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/lentera-laut/src/models/mlruns/639518441493348879/470e7e22fc5e4261b2b5900a5ded12a5/artifacts
+end_time: 1779251556095
+entry_point_name: ''
+experiment_id: '639518441493348879'
+lifecycle_stage: active
+run_id: 470e7e22fc5e4261b2b5900a5ded12a5
+run_name: Optuna_ExtraTreesRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779251550846
+status: 3
+tags: []
+user_id: USER
